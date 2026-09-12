@@ -1,0 +1,2734 @@
+{
+  "version": "2.2.0",
+  "curator": "ArcRouter",
+  "license": "MIT",
+  "license_scope": "ArcRouter-authored guide, labels, descriptions and generated demonstration sheets. Third-party materials are excluded.",
+  "curated_count": 96,
+  "languages": [
+    "ko",
+    "en"
+  ],
+  "selection_note": "96 independently organized medium and rendering presets. No upstream numbered mapping, artist index, instructions, images or scripts are bundled.",
+  "inspiration": [
+    {
+      "name": "yang0/handraw-style",
+      "url": "https://github.com/yang0/handraw-style",
+      "role": "Reference for the idea of a browsable style collection; not redistributed or relicensed."
+    }
+  ],
+  "styles": [
+    {
+      "id": "AR001",
+      "category": "ink",
+      "name_ko": "한 줄 인물",
+      "name_en": "Single-line figure",
+      "visual_ko": "끊기지 않는 선으로 몸의 방향을 나타낸다.",
+      "visual_en": "Describe the figure with a continuous directional contour.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 0,
+        "row": 0,
+        "crop": {
+          "x": 2,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR001: Single-line figure. Describe the figure with a continuous directional contour."
+    },
+    {
+      "id": "AR002",
+      "category": "ink",
+      "name_ko": "가는 도시 선",
+      "name_en": "Fine city lines",
+      "visual_ko": "건축 윤곽은 가늘게, 사람은 작은 기호로 그린다.",
+      "visual_en": "Use fine building contours and small human marks.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 1,
+        "row": 0,
+        "crop": {
+          "x": 364,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR002: Fine city lines. Use fine building contours and small human marks."
+    },
+    {
+      "id": "AR003",
+      "category": "ink",
+      "name_ko": "붓펜 몸짓",
+      "name_en": "Brush-pen gestures",
+      "visual_ko": "굵기 변화로 움직임의 무게를 구분한다.",
+      "visual_en": "Use pressure changes to convey the weight of a gesture.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 2,
+        "row": 0,
+        "crop": {
+          "x": 726,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR003: Brush-pen gestures. Use pressure changes to convey the weight of a gesture."
+    },
+    {
+      "id": "AR004",
+      "category": "ink",
+      "name_ko": "마른 먹 풍경",
+      "name_en": "Dry-ink landscape",
+      "visual_ko": "종이 틈이 드러나는 마른 선을 쓴다.",
+      "visual_en": "Let paper gaps interrupt dry strokes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 3,
+        "row": 0,
+        "crop": {
+          "x": 1088,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR004: Dry-ink landscape. Let paper gaps interrupt dry strokes."
+    },
+    {
+      "id": "AR005",
+      "category": "ink",
+      "name_ko": "점묘 잉크",
+      "name_en": "Stippled ink",
+      "visual_ko": "명암을 점의 밀도로 구분한다.",
+      "visual_en": "Separate values through dot density.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 0,
+        "row": 1,
+        "crop": {
+          "x": 2,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR005: Stippled ink. Separate values through dot density."
+    },
+    {
+      "id": "AR006",
+      "category": "ink",
+      "name_ko": "평행 해칭",
+      "name_en": "Parallel hatching",
+      "visual_ko": "같은 방향의 선 간격으로 음영을 만든다.",
+      "visual_en": "Build shade with spacing between parallel strokes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 1,
+        "row": 1,
+        "crop": {
+          "x": 364,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR006: Parallel hatching. Build shade with spacing between parallel strokes."
+    },
+    {
+      "id": "AR007",
+      "category": "ink",
+      "name_ko": "교차 펜 음영",
+      "name_en": "Crosshatched pen",
+      "visual_ko": "어두운 부분만 두 방향 선을 겹친다.",
+      "visual_en": "Cross two stroke directions only in shadow areas.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 2,
+        "row": 1,
+        "crop": {
+          "x": 726,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR007: Crosshatched pen. Cross two stroke directions only in shadow areas."
+    },
+    {
+      "id": "AR008",
+      "category": "ink",
+      "name_ko": "검은 실루엣",
+      "name_en": "Black silhouettes",
+      "visual_ko": "큰 검정 덩어리와 내부의 빈 공간을 대비한다.",
+      "visual_en": "Contrast large black masses with interior gaps.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 3,
+        "row": 1,
+        "crop": {
+          "x": 1088,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR008: Black silhouettes. Contrast large black masses with interior gaps."
+    },
+    {
+      "id": "AR009",
+      "category": "ink",
+      "name_ko": "관찰 노트",
+      "name_en": "Observation notebook",
+      "visual_ko": "외곽선과 소수의 구조선으로 형태를 설명한다.",
+      "visual_en": "Explain form with contours and a few structural lines.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 0,
+        "row": 2,
+        "crop": {
+          "x": 2,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR009: Observation notebook. Explain form with contours and a few structural lines."
+    },
+    {
+      "id": "AR010",
+      "category": "ink",
+      "name_ko": "굵은 외곽선",
+      "name_en": "Bold contour",
+      "visual_ko": "외곽은 굵게, 내부 정보는 가늘게 구분한다.",
+      "visual_en": "Separate heavy outlines from lighter interior detail.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 1,
+        "row": 2,
+        "crop": {
+          "x": 364,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR010: Bold contour. Separate heavy outlines from lighter interior detail."
+    },
+    {
+      "id": "AR011",
+      "category": "ink",
+      "name_ko": "잉크와 한 색",
+      "name_en": "Ink plus one color",
+      "visual_ko": "검은 선 위에 한 가지 강조색만 더한다.",
+      "visual_en": "Add one accent hue to black linework.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 2,
+        "row": 2,
+        "crop": {
+          "x": 726,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR011: Ink plus one color. Add one accent hue to black linework."
+    },
+    {
+      "id": "AR012",
+      "category": "ink",
+      "name_ko": "빈 공간 드로잉",
+      "name_en": "Open-space drawing",
+      "visual_ko": "대상의 일부를 그리지 않고 종이색으로 연결한다.",
+      "visual_en": "Connect parts of the subject through unmarked paper.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/ink-v1.png",
+        "column": 3,
+        "row": 2,
+        "crop": {
+          "x": 1088,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/ink-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR012: Open-space drawing. Connect parts of the subject through unmarked paper."
+    },
+    {
+      "id": "AR013",
+      "category": "pencil",
+      "name_ko": "흑연 형태 연구",
+      "name_en": "Graphite form study",
+      "visual_ko": "넓은 연필 면으로 밝고 어두운 덩어리를 나눈다.",
+      "visual_en": "Use broad graphite planes to separate light and dark masses.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 0,
+        "row": 0,
+        "crop": {
+          "x": 2,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR013: Graphite form study. Use broad graphite planes to separate light and dark masses."
+    },
+    {
+      "id": "AR014",
+      "category": "pencil",
+      "name_ko": "가는 연필 인물",
+      "name_en": "Fine pencil figures",
+      "visual_ko": "가벼운 선과 소량의 음영으로 표정을 남긴다.",
+      "visual_en": "Keep expressions in light lines with restrained shading.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 1,
+        "row": 0,
+        "crop": {
+          "x": 364,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR014: Fine pencil figures. Keep expressions in light lines with restrained shading."
+    },
+    {
+      "id": "AR015",
+      "category": "pencil",
+      "name_ko": "거친 목탄",
+      "name_en": "Rough charcoal",
+      "visual_ko": "부드러운 검정 면과 지운 밝은 자국을 대조한다.",
+      "visual_en": "Contrast soft dark masses with erased highlights.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 2,
+        "row": 0,
+        "crop": {
+          "x": 726,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR015: Rough charcoal. Contrast soft dark masses with erased highlights."
+    },
+    {
+      "id": "AR016",
+      "category": "pencil",
+      "name_ko": "두 색 연필",
+      "name_en": "Two-pencil palette",
+      "visual_ko": "서로 다른 두 색으로 주제와 보조 형태를 나눈다.",
+      "visual_en": "Separate the subject and supporting forms with two colors.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 3,
+        "row": 0,
+        "crop": {
+          "x": 1088,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR016: Two-pencil palette. Separate the subject and supporting forms with two colors."
+    },
+    {
+      "id": "AR017",
+      "category": "pencil",
+      "name_ko": "겹친 색연필",
+      "name_en": "Layered colored pencil",
+      "visual_ko": "여러 얇은 선을 겹쳐 색의 깊이를 만든다.",
+      "visual_en": "Build color depth from layers of thin strokes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 0,
+        "row": 1,
+        "crop": {
+          "x": 2,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR017: Layered colored pencil. Build color depth from layers of thin strokes."
+    },
+    {
+      "id": "AR018",
+      "category": "pencil",
+      "name_ko": "여행 연필 메모",
+      "name_en": "Travel pencil notes",
+      "visual_ko": "현장감 있는 불균일한 선으로 주요 형태만 남긴다.",
+      "visual_en": "Keep essential shapes with uneven location-sketch lines.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 1,
+        "row": 1,
+        "crop": {
+          "x": 364,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR018: Travel pencil notes. Keep essential shapes with uneven location-sketch lines."
+    },
+    {
+      "id": "AR019",
+      "category": "pencil",
+      "name_ko": "부드러운 파스텔",
+      "name_en": "Soft pastel blocks",
+      "visual_ko": "둥근 색 덩어리의 가장자리를 부드럽게 풀어 준다.",
+      "visual_en": "Soften the edges of rounded color masses.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 2,
+        "row": 1,
+        "crop": {
+          "x": 726,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR019: Soft pastel blocks. Soften the edges of rounded color masses."
+    },
+    {
+      "id": "AR020",
+      "category": "pencil",
+      "name_ko": "굵은 크레용",
+      "name_en": "Thick crayon marks",
+      "visual_ko": "굵은 선 안에 종이의 작은 빈틈을 남긴다.",
+      "visual_en": "Leave small paper gaps within broad waxy marks.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 3,
+        "row": 1,
+        "crop": {
+          "x": 1088,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR020: Thick crayon marks. Leave small paper gaps within broad waxy marks."
+    },
+    {
+      "id": "AR021",
+      "category": "pencil",
+      "name_ko": "긁어낸 크레용",
+      "name_en": "Scratched crayon",
+      "visual_ko": "어두운 색층을 긁은 듯 밝은 선을 낸다.",
+      "visual_en": "Reveal bright lines as if scratched through a dark wax layer.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 0,
+        "row": 2,
+        "crop": {
+          "x": 2,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR021: Scratched crayon. Reveal bright lines as if scratched through a dark wax layer."
+    },
+    {
+      "id": "AR022",
+      "category": "pencil",
+      "name_ko": "노트 여백 낙서",
+      "name_en": "Margin doodles",
+      "visual_ko": "작은 크기의 단순한 형태와 느슨한 선을 쓴다.",
+      "visual_en": "Use compact simple forms and relaxed linework.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 1,
+        "row": 2,
+        "crop": {
+          "x": 364,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR022: Margin doodles. Use compact simple forms and relaxed linework."
+    },
+    {
+      "id": "AR023",
+      "category": "pencil",
+      "name_ko": "옅은 색연필 자연화",
+      "name_en": "Pale pencil nature",
+      "visual_ko": "저채도 선으로 잎과 줄기의 방향을 구분한다.",
+      "visual_en": "Describe leaf and stem directions with muted pencil marks.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 2,
+        "row": 2,
+        "crop": {
+          "x": 726,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR023: Pale pencil nature. Describe leaf and stem directions with muted pencil marks."
+    },
+    {
+      "id": "AR024",
+      "category": "pencil",
+      "name_ko": "고대비 목탄 초상",
+      "name_en": "High-contrast charcoal portrait",
+      "visual_ko": "밝은 얼굴 면을 남기고 주변 음영을 뭉친다.",
+      "visual_en": "Preserve light facial planes against clustered shadows.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/pencil-v1.png",
+        "column": 3,
+        "row": 2,
+        "crop": {
+          "x": 1088,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/pencil-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR024: High-contrast charcoal portrait. Preserve light facial planes against clustered shadows."
+    },
+    {
+      "id": "AR025",
+      "category": "watercolor",
+      "name_ko": "옅은 수채 담채",
+      "name_en": "Light watercolor wash",
+      "visual_ko": "종이의 흰색이 넓게 비치는 얇은 색층을 쓴다.",
+      "visual_en": "Use thin color layers that reveal generous white paper.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 0,
+        "row": 0,
+        "crop": {
+          "x": 2,
+          "y": 2,
+          "width": 358,
+          "height": 345,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 314.7826086956522%",
+          "backgroundPosition": "0.1834862385321101% 0.2699055330634278%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR025: Light watercolor wash. Use thin color layers that reveal generous white paper."
+    },
+    {
+      "id": "AR026",
+      "category": "watercolor",
+      "name_ko": "젖은 번짐",
+      "name_en": "Wet color blooms",
+      "visual_ko": "인접한 색 경계가 자연스럽게 스며들게 한다.",
+      "visual_en": "Let neighboring color boundaries bleed into each other.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 1,
+        "row": 0,
+        "crop": {
+          "x": 364,
+          "y": 2,
+          "width": 358,
+          "height": 345,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 314.7826086956522%",
+          "backgroundPosition": "33.39449541284404% 0.2699055330634278%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR026: Wet color blooms. Let neighboring color boundaries bleed into each other."
+    },
+    {
+      "id": "AR027",
+      "category": "watercolor",
+      "name_ko": "건조한 수채 경계",
+      "name_en": "Dry watercolor edges",
+      "visual_ko": "마른 종이 위에 분명한 색 경계를 만든다.",
+      "visual_en": "Keep distinct color boundaries on dry paper.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 2,
+        "row": 0,
+        "crop": {
+          "x": 726,
+          "y": 2,
+          "width": 358,
+          "height": 345,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 314.7826086956522%",
+          "backgroundPosition": "66.60550458715596% 0.2699055330634278%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR027: Dry watercolor edges. Keep distinct color boundaries on dry paper."
+    },
+    {
+      "id": "AR028",
+      "category": "watercolor",
+      "name_ko": "수채와 먹선",
+      "name_en": "Watercolor with ink",
+      "visual_ko": "가벼운 먹선 위에 투명한 색을 얹는다.",
+      "visual_en": "Lay transparent color over light ink contours.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 3,
+        "row": 0,
+        "crop": {
+          "x": 1088,
+          "y": 2,
+          "width": 358,
+          "height": 345,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 314.7826086956522%",
+          "backgroundPosition": "99.81651376146789% 0.2699055330634278%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR028: Watercolor with ink. Lay transparent color over light ink contours."
+    },
+    {
+      "id": "AR029",
+      "category": "watercolor",
+      "name_ko": "계절 풍경 수채",
+      "name_en": "Seasonal watercolor",
+      "visual_ko": "한 계절을 나타내는 제한된 색군으로 장면을 묶는다.",
+      "visual_en": "Unify the scene with a limited seasonal color family.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 0,
+        "row": 1,
+        "crop": {
+          "x": 2,
+          "y": 351,
+          "width": 358,
+          "height": 355,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 305.9154929577465%",
+          "backgroundPosition": "0.1834862385321101% 48.01641586867305%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR029: Seasonal watercolor. Unify the scene with a limited seasonal color family."
+    },
+    {
+      "id": "AR030",
+      "category": "watercolor",
+      "name_ko": "식물 관찰 수채",
+      "name_en": "Botanical watercolor",
+      "visual_ko": "잎의 흐름과 줄기 구조를 정확한 붓 방향으로 나눈다.",
+      "visual_en": "Distinguish leaf flow and stem structure with directed strokes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 1,
+        "row": 1,
+        "crop": {
+          "x": 364,
+          "y": 351,
+          "width": 358,
+          "height": 355,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 305.9154929577465%",
+          "backgroundPosition": "33.39449541284404% 48.01641586867305%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR030: Botanical watercolor. Distinguish leaf flow and stem structure with directed strokes."
+    },
+    {
+      "id": "AR031",
+      "category": "watercolor",
+      "name_ko": "여행 수채 기록",
+      "name_en": "Travel watercolor journal",
+      "visual_ko": "중요한 윤곽만 남기고 나머지는 느슨한 색면으로 둔다.",
+      "visual_en": "Keep key contours and relax other areas into loose washes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 2,
+        "row": 1,
+        "crop": {
+          "x": 726,
+          "y": 351,
+          "width": 358,
+          "height": 355,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 305.9154929577465%",
+          "backgroundPosition": "66.60550458715596% 48.01641586867305%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR031: Travel watercolor journal. Keep key contours and relax other areas into loose washes."
+    },
+    {
+      "id": "AR032",
+      "category": "watercolor",
+      "name_ko": "안개빛 풍경",
+      "name_en": "Misty washes",
+      "visual_ko": "먼 곳일수록 채도와 윤곽을 약하게 한다.",
+      "visual_en": "Reduce saturation and edge strength with distance.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 3,
+        "row": 1,
+        "crop": {
+          "x": 1088,
+          "y": 351,
+          "width": 358,
+          "height": 355,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 305.9154929577465%",
+          "backgroundPosition": "99.81651376146789% 48.01641586867305%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR032: Misty washes. Reduce saturation and edge strength with distance."
+    },
+    {
+      "id": "AR033",
+      "category": "watercolor",
+      "name_ko": "맑은 인물 담채",
+      "name_en": "Clear figure washes",
+      "visual_ko": "얼굴과 옷의 큰 면을 투명한 색으로 분리한다.",
+      "visual_en": "Separate broad face and clothing planes with transparent hues.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 0,
+        "row": 2,
+        "crop": {
+          "x": 2,
+          "y": 710,
+          "width": 358,
+          "height": 374,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 290.37433155080214%",
+          "backgroundPosition": "0.1834862385321101% 99.71910112359551%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR033: Clear figure washes. Separate broad face and clothing planes with transparent hues."
+    },
+    {
+      "id": "AR034",
+      "category": "watercolor",
+      "name_ko": "수채 얼룩 동물",
+      "name_en": "Watercolor animal shapes",
+      "visual_ko": "동물의 외곽을 둥근 얼룩으로 먼저 잡는다.",
+      "visual_en": "Establish animal silhouettes through rounded color patches.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 1,
+        "row": 2,
+        "crop": {
+          "x": 364,
+          "y": 710,
+          "width": 358,
+          "height": 374,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 290.37433155080214%",
+          "backgroundPosition": "33.39449541284404% 99.71910112359551%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR034: Watercolor animal shapes. Establish animal silhouettes through rounded color patches."
+    },
+    {
+      "id": "AR035",
+      "category": "watercolor",
+      "name_ko": "분홍빛 번짐",
+      "name_en": "Rose-tinted washes",
+      "visual_ko": "분홍 계열의 엷은 색층과 종이 여백을 함께 쓴다.",
+      "visual_en": "Pair pale rose washes with open paper.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 2,
+        "row": 2,
+        "crop": {
+          "x": 726,
+          "y": 710,
+          "width": 358,
+          "height": 374,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 290.37433155080214%",
+          "backgroundPosition": "66.60550458715596% 99.71910112359551%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR035: Rose-tinted washes. Pair pale rose washes with open paper."
+    },
+    {
+      "id": "AR036",
+      "category": "watercolor",
+      "name_ko": "청색 단색 수채",
+      "name_en": "Blue monochrome wash",
+      "visual_ko": "한 청색의 농담으로 깊이를 표현한다.",
+      "visual_en": "Express depth through the values of one blue hue.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/watercolor-v1.png",
+        "column": 3,
+        "row": 2,
+        "crop": {
+          "x": 1088,
+          "y": 710,
+          "width": 358,
+          "height": 374,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 290.37433155080214%",
+          "backgroundPosition": "99.81651376146789% 99.71910112359551%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/watercolor-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR036: Blue monochrome wash. Express depth through the values of one blue hue."
+    },
+    {
+      "id": "AR037",
+      "category": "paint",
+      "name_ko": "불투명 과슈",
+      "name_en": "Opaque gouache",
+      "visual_ko": "붓자국이 남은 평평한 색면을 포갠다.",
+      "visual_en": "Stack flat opaque color planes with visible brush marks.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 0,
+        "row": 0,
+        "crop": {
+          "x": 2,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR037: Opaque gouache. Stack flat opaque color planes with visible brush marks."
+    },
+    {
+      "id": "AR038",
+      "category": "paint",
+      "name_ko": "오일파스텔 덩어리",
+      "name_en": "Oil-pastel masses",
+      "visual_ko": "두꺼운 색의 가장자리를 거칠게 남긴다.",
+      "visual_en": "Keep rough edges around thick color masses.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 1,
+        "row": 0,
+        "crop": {
+          "x": 364,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR038: Oil-pastel masses. Keep rough edges around thick color masses."
+    },
+    {
+      "id": "AR039",
+      "category": "paint",
+      "name_ko": "포스터 물감",
+      "name_en": "Poster-paint shapes",
+      "visual_ko": "명확한 세 가지 색 덩어리로 형태를 나눈다.",
+      "visual_en": "Divide forms into three clear color masses.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 2,
+        "row": 0,
+        "crop": {
+          "x": 726,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR039: Poster-paint shapes. Divide forms into three clear color masses."
+    },
+    {
+      "id": "AR040",
+      "category": "paint",
+      "name_ko": "마른 붓 색면",
+      "name_en": "Dry-brush color",
+      "visual_ko": "넓은 색면 안에 붓 결이 끊긴 자국을 남긴다.",
+      "visual_en": "Leave broken brush texture inside broad color planes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 3,
+        "row": 0,
+        "crop": {
+          "x": 1088,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR040: Dry-brush color. Leave broken brush texture inside broad color planes."
+    },
+    {
+      "id": "AR041",
+      "category": "paint",
+      "name_ko": "따뜻한 과슈 동화",
+      "name_en": "Warm gouache tales",
+      "visual_ko": "따뜻한 주조색에 차분한 그림자색을 붙인다.",
+      "visual_en": "Pair warm dominant colors with quiet shadow hues.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 0,
+        "row": 1,
+        "crop": {
+          "x": 2,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR041: Warm gouache tales. Pair warm dominant colors with quiet shadow hues."
+    },
+    {
+      "id": "AR042",
+      "category": "paint",
+      "name_ko": "차가운 과슈 밤",
+      "name_en": "Cool gouache night",
+      "visual_ko": "짙은 청색 면 사이로 작은 밝은 부분을 남긴다.",
+      "visual_en": "Leave small light areas among deep blue planes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 1,
+        "row": 1,
+        "crop": {
+          "x": 364,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR042: Cool gouache night. Leave small light areas among deep blue planes."
+    },
+    {
+      "id": "AR043",
+      "category": "paint",
+      "name_ko": "평면 아크릴",
+      "name_en": "Flat acrylic drawing",
+      "visual_ko": "단단한 색면 경계와 간결한 형태를 쓴다.",
+      "visual_en": "Use firm color boundaries and simplified forms.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 2,
+        "row": 1,
+        "crop": {
+          "x": 726,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR043: Flat acrylic drawing. Use firm color boundaries and simplified forms."
+    },
+    {
+      "id": "AR044",
+      "category": "paint",
+      "name_ko": "붓질 꽃무늬",
+      "name_en": "Brushstroke florals",
+      "visual_ko": "반복되는 붓 눌림으로 꽃잎의 리듬을 만든다.",
+      "visual_en": "Create petal rhythms with repeated brush impressions.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 3,
+        "row": 1,
+        "crop": {
+          "x": 1088,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR044: Brushstroke florals. Create petal rhythms with repeated brush impressions."
+    },
+    {
+      "id": "AR045",
+      "category": "paint",
+      "name_ko": "두꺼운 물감 질감",
+      "name_en": "Thick paint texture",
+      "visual_ko": "빛을 받는 부분에만 물감의 두께를 강조한다.",
+      "visual_en": "Emphasize paint thickness only in lit areas.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 0,
+        "row": 2,
+        "crop": {
+          "x": 2,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR045: Thick paint texture. Emphasize paint thickness only in lit areas."
+    },
+    {
+      "id": "AR046",
+      "category": "paint",
+      "name_ko": "과슈와 연필",
+      "name_en": "Gouache with pencil",
+      "visual_ko": "불투명 색면 위에 가는 연필 구조선을 더한다.",
+      "visual_en": "Add fine pencil structure over opaque painted planes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 1,
+        "row": 2,
+        "crop": {
+          "x": 364,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR046: Gouache with pencil. Add fine pencil structure over opaque painted planes."
+    },
+    {
+      "id": "AR047",
+      "category": "paint",
+      "name_ko": "채색 목재 인형",
+      "name_en": "Painted wooden figures",
+      "visual_ko": "각진 평면에 손으로 칠한 듯한 색 경계를 둔다.",
+      "visual_en": "Use angular flat forms with hand-painted color edges.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 2,
+        "row": 2,
+        "crop": {
+          "x": 726,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR047: Painted wooden figures. Use angular flat forms with hand-painted color edges."
+    },
+    {
+      "id": "AR048",
+      "category": "paint",
+      "name_ko": "마커 색 겹침",
+      "name_en": "Overlapping marker color",
+      "visual_ko": "반투명 마커가 겹친 자리를 조금 더 어둡게 한다.",
+      "visual_en": "Darken areas where translucent marker strokes overlap.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paint-v1.png",
+        "column": 3,
+        "row": 2,
+        "crop": {
+          "x": 1088,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paint-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR048: Overlapping marker color. Darken areas where translucent marker strokes overlap."
+    },
+    {
+      "id": "AR049",
+      "category": "print",
+      "name_ko": "두 색 리소",
+      "name_en": "Two-ink riso",
+      "visual_ko": "두 잉크의 겹침과 작은 어긋남을 질감으로 쓴다.",
+      "visual_en": "Use ink overlaps and slight registration shifts as texture.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 0,
+        "row": 0,
+        "crop": {
+          "x": 2,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR049: Two-ink riso. Use ink overlaps and slight registration shifts as texture."
+    },
+    {
+      "id": "AR050",
+      "category": "print",
+      "name_ko": "세 색 스크린",
+      "name_en": "Three-color screenprint",
+      "visual_ko": "세 개의 분리된 색층으로 큰 형태를 조직한다.",
+      "visual_en": "Organize large forms into three separated ink layers.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 1,
+        "row": 0,
+        "crop": {
+          "x": 364,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR050: Three-color screenprint. Organize large forms into three separated ink layers."
+    },
+    {
+      "id": "AR051",
+      "category": "print",
+      "name_ko": "리놀륨 판화",
+      "name_en": "Linocut marks",
+      "visual_ko": "칼로 깎은 듯한 밝은 선과 검은 면을 대비한다.",
+      "visual_en": "Contrast carved-looking light strokes with dark areas.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 2,
+        "row": 0,
+        "crop": {
+          "x": 726,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR051: Linocut marks. Contrast carved-looking light strokes with dark areas."
+    },
+    {
+      "id": "AR052",
+      "category": "print",
+      "name_ko": "나뭇결 판화",
+      "name_en": "Woodgrain print",
+      "visual_ko": "형태를 따라가는 긴 나뭇결 무늬를 둔다.",
+      "visual_en": "Run elongated grain marks along the form.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 3,
+        "row": 0,
+        "crop": {
+          "x": 1088,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR052: Woodgrain print. Run elongated grain marks along the form."
+    },
+    {
+      "id": "AR053",
+      "category": "print",
+      "name_ko": "고무도장 그림",
+      "name_en": "Rubber-stamp drawing",
+      "visual_ko": "색면 안의 작은 잉크 누락을 남긴다.",
+      "visual_en": "Leave small ink gaps within stamped color shapes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 0,
+        "row": 1,
+        "crop": {
+          "x": 2,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR053: Rubber-stamp drawing. Leave small ink gaps within stamped color shapes."
+    },
+    {
+      "id": "AR054",
+      "category": "print",
+      "name_ko": "신문 망점",
+      "name_en": "Newsprint halftone",
+      "visual_ko": "적은 단계의 망점으로 중간 명도를 만든다.",
+      "visual_en": "Build midtones with a few halftone levels.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 1,
+        "row": 1,
+        "crop": {
+          "x": 364,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR054: Newsprint halftone. Build midtones with a few halftone levels."
+    },
+    {
+      "id": "AR055",
+      "category": "print",
+      "name_ko": "복사기 진",
+      "name_en": "Photocopied zine",
+      "visual_ko": "흑백의 뭉친 대비와 복사 입자를 쓴다.",
+      "visual_en": "Use crushed monochrome contrast and copy grain.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 2,
+        "row": 1,
+        "crop": {
+          "x": 726,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR055: Photocopied zine. Use crushed monochrome contrast and copy grain."
+    },
+    {
+      "id": "AR056",
+      "category": "print",
+      "name_ko": "청사진 실루엣",
+      "name_en": "Blueprint silhouettes",
+      "visual_ko": "짙은 청색 바탕에 밝은 선과 면을 남긴다.",
+      "visual_en": "Keep pale lines and shapes on a deep blue field.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 3,
+        "row": 1,
+        "crop": {
+          "x": 1088,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR056: Blueprint silhouettes. Keep pale lines and shapes on a deep blue field."
+    },
+    {
+      "id": "AR057",
+      "category": "print",
+      "name_ko": "석판화 선",
+      "name_en": "Lithographic lines",
+      "visual_ko": "연필처럼 부드러운 선에 고른 인쇄 입자를 더한다.",
+      "visual_en": "Add even print grain to soft pencil-like lines.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 0,
+        "row": 2,
+        "crop": {
+          "x": 2,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR057: Lithographic lines. Add even print grain to soft pencil-like lines."
+    },
+    {
+      "id": "AR058",
+      "category": "print",
+      "name_ko": "단색 목판 이야기",
+      "name_en": "Monochrome woodcut tales",
+      "visual_ko": "큰 흑백 덩어리로 서사적 대비를 만든다.",
+      "visual_en": "Build narrative contrast through broad black-white masses.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 1,
+        "row": 2,
+        "crop": {
+          "x": 364,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR058: Monochrome woodcut tales. Build narrative contrast through broad black-white masses."
+    },
+    {
+      "id": "AR059",
+      "category": "print",
+      "name_ko": "빈티지 별색 포스터",
+      "name_en": "Vintage spot-color poster",
+      "visual_ko": "바랜 종이색과 선명한 별색을 대조한다.",
+      "visual_en": "Contrast aged paper tones with clear spot colors.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 2,
+        "row": 2,
+        "crop": {
+          "x": 726,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR059: Vintage spot-color poster. Contrast aged paper tones with clear spot colors."
+    },
+    {
+      "id": "AR060",
+      "category": "print",
+      "name_ko": "모노프린트 얼룩",
+      "name_en": "Monoprint textures",
+      "visual_ko": "눌러 찍은 듯 불규칙한 색 가장자리를 남긴다.",
+      "visual_en": "Keep irregular color edges that suggest a pressed print.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/print-v1.png",
+        "column": 3,
+        "row": 2,
+        "crop": {
+          "x": 1088,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/print-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR060: Monoprint textures. Keep irregular color edges that suggest a pressed print."
+    },
+    {
+      "id": "AR061",
+      "category": "paper",
+      "name_ko": "찢은 종이 풍경",
+      "name_en": "Torn-paper landscape",
+      "visual_ko": "층마다 다른 찢긴 가장자리로 깊이를 나눈다.",
+      "visual_en": "Separate depth with differently torn layer edges.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 0,
+        "row": 0,
+        "crop": {
+          "x": 2,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR061: Torn-paper landscape. Separate depth with differently torn layer edges."
+    },
+    {
+      "id": "AR062",
+      "category": "paper",
+      "name_ko": "정밀 종이 오리기",
+      "name_en": "Precise paper cutouts",
+      "visual_ko": "칼로 자른 듯 매끈한 실루엣을 겹친다.",
+      "visual_en": "Overlap smooth blade-cut silhouettes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 1,
+        "row": 0,
+        "crop": {
+          "x": 364,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR062: Precise paper cutouts. Overlap smooth blade-cut silhouettes."
+    },
+    {
+      "id": "AR063",
+      "category": "paper",
+      "name_ko": "색종이 캐릭터",
+      "name_en": "Colored-paper figures",
+      "visual_ko": "단순한 조각을 겹쳐 인물의 관절 방향을 나타낸다.",
+      "visual_en": "Overlap simple pieces to suggest limb directions.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 2,
+        "row": 0,
+        "crop": {
+          "x": 726,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR063: Colored-paper figures. Overlap simple pieces to suggest limb directions."
+    },
+    {
+      "id": "AR064",
+      "category": "paper",
+      "name_ko": "잡지 조각 콜라주",
+      "name_en": "Magazine-fragment collage",
+      "visual_ko": "다른 인쇄 질감의 조각을 큰 형태로 묶는다.",
+      "visual_en": "Unify fragments of different print textures into larger forms.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 3,
+        "row": 0,
+        "crop": {
+          "x": 1088,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR064: Magazine-fragment collage. Unify fragments of different print textures into larger forms."
+    },
+    {
+      "id": "AR065",
+      "category": "paper",
+      "name_ko": "수채 종이 콜라주",
+      "name_en": "Watercolor-paper collage",
+      "visual_ko": "번진 색 종이를 잘라 명확한 윤곽을 만든다.",
+      "visual_en": "Cut washed paper into clear contours.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 0,
+        "row": 1,
+        "crop": {
+          "x": 2,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR065: Watercolor-paper collage. Cut washed paper into clear contours."
+    },
+    {
+      "id": "AR066",
+      "category": "paper",
+      "name_ko": "천 조각 평면화",
+      "name_en": "Fabric-patch drawing",
+      "visual_ko": "실물 렌더 대신 평면 속 직물 결로 재료를 나타낸다.",
+      "visual_en": "Suggest fabric through flat weave marks rather than 3D rendering.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 1,
+        "row": 1,
+        "crop": {
+          "x": 364,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR066: Fabric-patch drawing. Suggest fabric through flat weave marks rather than 3D rendering."
+    },
+    {
+      "id": "AR067",
+      "category": "paper",
+      "name_ko": "반투명 종이 겹침",
+      "name_en": "Translucent paper layers",
+      "visual_ko": "겹친 부분의 색이 섞여 보이게 한다.",
+      "visual_en": "Let colors mingle where translucent layers overlap.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 2,
+        "row": 1,
+        "crop": {
+          "x": 726,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR067: Translucent paper layers. Let colors mingle where translucent layers overlap."
+    },
+    {
+      "id": "AR068",
+      "category": "paper",
+      "name_ko": "접힌 종이 선",
+      "name_en": "Folded-paper lines",
+      "visual_ko": "접힌 방향을 가는 선과 제한된 음영으로 나타낸다.",
+      "visual_en": "Indicate folds with thin lines and restrained shading.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 3,
+        "row": 1,
+        "crop": {
+          "x": 1088,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR068: Folded-paper lines. Indicate folds with thin lines and restrained shading."
+    },
+    {
+      "id": "AR069",
+      "category": "paper",
+      "name_ko": "모양 스티커",
+      "name_en": "Shape stickers",
+      "visual_ko": "독립된 단순 실루엣 안에 세부 정보를 모은다.",
+      "visual_en": "Keep detail inside separate simple silhouettes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 0,
+        "row": 2,
+        "crop": {
+          "x": 2,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR069: Shape stickers. Keep detail inside separate simple silhouettes."
+    },
+    {
+      "id": "AR070",
+      "category": "paper",
+      "name_ko": "종이 인형 옷",
+      "name_en": "Paper-doll outfits",
+      "visual_ko": "옷과 몸을 평평한 분리 조각처럼 정리한다.",
+      "visual_en": "Arrange clothing and body as separate flat pieces.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 1,
+        "row": 2,
+        "crop": {
+          "x": 364,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR070: Paper-doll outfits. Arrange clothing and body as separate flat pieces."
+    },
+    {
+      "id": "AR071",
+      "category": "paper",
+      "name_ko": "자연물 압화 콜라주",
+      "name_en": "Pressed-botanical collage",
+      "visual_ko": "납작한 잎과 꽃 형태를 정돈된 겹침으로 배치한다.",
+      "visual_en": "Arrange flattened botanical shapes in orderly overlaps.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 2,
+        "row": 2,
+        "crop": {
+          "x": 726,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR071: Pressed-botanical collage. Arrange flattened botanical shapes in orderly overlaps."
+    },
+    {
+      "id": "AR072",
+      "category": "paper",
+      "name_ko": "거친 공책 콜라주",
+      "name_en": "Rough notebook collage",
+      "visual_ko": "종이 조각과 손그림 사이의 거친 이음매를 남긴다.",
+      "visual_en": "Keep rough seams between paper pieces and drawn marks.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/paper-v1.png",
+        "column": 3,
+        "row": 2,
+        "crop": {
+          "x": 1088,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/paper-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR072: Rough notebook collage. Keep rough seams between paper pieces and drawn marks."
+    },
+    {
+      "id": "AR073",
+      "category": "editorial",
+      "name_ko": "사물 은유",
+      "name_en": "Object metaphors",
+      "visual_ko": "익숙한 물건의 실루엣을 주제에 맞게 단순화한다.",
+      "visual_en": "Simplify familiar object silhouettes around the topic.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 0,
+        "row": 0,
+        "crop": {
+          "x": 2,
+          "y": 2,
+          "width": 358,
+          "height": 336,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 323.2142857142857%",
+          "backgroundPosition": "0.1834862385321101% 0.26666666666666666%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR073: Object metaphors. Simplify familiar object silhouettes around the topic."
+    },
+    {
+      "id": "AR074",
+      "category": "editorial",
+      "name_ko": "여백 유머",
+      "name_en": "Negative-space humor",
+      "visual_ko": "비어 있는 모양이 두 번째 의미를 만들게 한다.",
+      "visual_en": "Let empty shapes suggest a second meaning.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 1,
+        "row": 0,
+        "crop": {
+          "x": 364,
+          "y": 2,
+          "width": 358,
+          "height": 336,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 323.2142857142857%",
+          "backgroundPosition": "33.39449541284404% 0.26666666666666666%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR074: Negative-space humor. Let empty shapes suggest a second meaning."
+    },
+    {
+      "id": "AR075",
+      "category": "editorial",
+      "name_ko": "기하학 인물",
+      "name_en": "Geometric people",
+      "visual_ko": "원과 사각형의 대비로 인물의 성격을 나타낸다.",
+      "visual_en": "Suggest personality through contrasts of circles and rectangles.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 2,
+        "row": 0,
+        "crop": {
+          "x": 726,
+          "y": 2,
+          "width": 358,
+          "height": 336,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 323.2142857142857%",
+          "backgroundPosition": "66.60550458715596% 0.26666666666666666%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR075: Geometric people. Suggest personality through contrasts of circles and rectangles."
+    },
+    {
+      "id": "AR076",
+      "category": "editorial",
+      "name_ko": "굵은 팝 인물",
+      "name_en": "Bold pop figures",
+      "visual_ko": "두꺼운 외곽선과 선명한 색면을 조합한다.",
+      "visual_en": "Combine thick outlines with vivid color planes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 3,
+        "row": 0,
+        "crop": {
+          "x": 1088,
+          "y": 2,
+          "width": 358,
+          "height": 336,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 323.2142857142857%",
+          "backgroundPosition": "99.81651376146789% 0.26666666666666666%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR076: Bold pop figures. Combine thick outlines with vivid color planes."
+    },
+    {
+      "id": "AR077",
+      "category": "editorial",
+      "name_ko": "차분한 생활 선화",
+      "name_en": "Quiet everyday lines",
+      "visual_ko": "적은 선과 낮은 채도로 일상의 표정을 남긴다.",
+      "visual_en": "Capture everyday expressions with sparse lines and muted hues.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 0,
+        "row": 1,
+        "crop": {
+          "x": 2,
+          "y": 342,
+          "width": 358,
+          "height": 339,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 320.353982300885%",
+          "backgroundPosition": "0.1834862385321101% 45.78313253012048%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR077: Quiet everyday lines. Capture everyday expressions with sparse lines and muted hues."
+    },
+    {
+      "id": "AR078",
+      "category": "editorial",
+      "name_ko": "한 컷 몸짓극",
+      "name_en": "Single-panel gestures",
+      "visual_ko": "얼굴 세부보다 자세의 차이를 크게 보여 준다.",
+      "visual_en": "Emphasize differences in posture over facial detail.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 1,
+        "row": 1,
+        "crop": {
+          "x": 364,
+          "y": 342,
+          "width": 358,
+          "height": 339,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 320.353982300885%",
+          "backgroundPosition": "33.39449541284404% 45.78313253012048%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR078: Single-panel gestures. Emphasize differences in posture over facial detail."
+    },
+    {
+      "id": "AR079",
+      "category": "editorial",
+      "name_ko": "도해형 이야기",
+      "name_en": "Diagrammatic stories",
+      "visual_ko": "반복되는 간단한 형태로 관계를 보여 준다.",
+      "visual_en": "Show relationships through repeated simple forms.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 2,
+        "row": 1,
+        "crop": {
+          "x": 726,
+          "y": 342,
+          "width": 358,
+          "height": 339,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 320.353982300885%",
+          "backgroundPosition": "66.60550458715596% 45.78313253012048%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR079: Diagrammatic stories. Show relationships through repeated simple forms."
+    },
+    {
+      "id": "AR080",
+      "category": "editorial",
+      "name_ko": "패션 윤곽",
+      "name_en": "Fashion contours",
+      "visual_ko": "옷의 외곽과 몸의 기울기를 우선한다.",
+      "visual_en": "Prioritize clothing contours and body tilt.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 3,
+        "row": 1,
+        "crop": {
+          "x": 1088,
+          "y": 342,
+          "width": 358,
+          "height": 339,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 320.353982300885%",
+          "backgroundPosition": "99.81651376146789% 45.78313253012048%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR080: Fashion contours. Prioritize clothing contours and body tilt."
+    },
+    {
+      "id": "AR081",
+      "category": "editorial",
+      "name_ko": "도시 군중 기호",
+      "name_en": "Urban crowd symbols",
+      "visual_ko": "작은 인물마다 한 가지 식별 특징만 둔다.",
+      "visual_en": "Give each small figure one distinguishing feature.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 0,
+        "row": 2,
+        "crop": {
+          "x": 2,
+          "y": 685,
+          "width": 358,
+          "height": 399,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 272.18045112781954%",
+          "backgroundPosition": "0.1834862385321101% 99.70887918486171%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR081: Urban crowd symbols. Give each small figure one distinguishing feature."
+    },
+    {
+      "id": "AR082",
+      "category": "editorial",
+      "name_ko": "민속 장식 그림",
+      "name_en": "Folk decorative drawing",
+      "visual_ko": "평평한 형태 안에 반복 무늬를 넣는다.",
+      "visual_en": "Place repeating ornaments inside flat forms.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 1,
+        "row": 2,
+        "crop": {
+          "x": 364,
+          "y": 685,
+          "width": 358,
+          "height": 399,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 272.18045112781954%",
+          "backgroundPosition": "33.39449541284404% 99.70887918486171%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR082: Folk decorative drawing. Place repeating ornaments inside flat forms."
+    },
+    {
+      "id": "AR083",
+      "category": "editorial",
+      "name_ko": "곡선 동화 인물",
+      "name_en": "Curved story figures",
+      "visual_ko": "유연한 곡선으로 자세를 연결한다.",
+      "visual_en": "Connect poses through flexible curves.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 2,
+        "row": 2,
+        "crop": {
+          "x": 726,
+          "y": 685,
+          "width": 358,
+          "height": 399,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 272.18045112781954%",
+          "backgroundPosition": "66.60550458715596% 99.70887918486171%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR083: Curved story figures. Connect poses through flexible curves."
+    },
+    {
+      "id": "AR084",
+      "category": "editorial",
+      "name_ko": "미드센추리 색면",
+      "name_en": "Mid-century color shapes",
+      "visual_ko": "비대칭 도형과 절제된 복고 색을 조합한다.",
+      "visual_en": "Pair asymmetric forms with a restrained retro palette.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/editorial-v1.png",
+        "column": 3,
+        "row": 2,
+        "crop": {
+          "x": 1088,
+          "y": 685,
+          "width": 358,
+          "height": 399,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 272.18045112781954%",
+          "backgroundPosition": "99.81651376146789% 99.70887918486171%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/editorial-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR084: Mid-century color shapes. Pair asymmetric forms with a restrained retro palette."
+    },
+    {
+      "id": "AR085",
+      "category": "game",
+      "name_ko": "작은 픽셀 아이콘",
+      "name_en": "Tiny pixel icons",
+      "visual_ko": "작은 격자 안에서 실루엣을 한눈에 읽히게 한다.",
+      "visual_en": "Keep silhouettes immediately readable on a small grid.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 0,
+        "row": 0,
+        "crop": {
+          "x": 2,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR085: Tiny pixel icons. Keep silhouettes immediately readable on a small grid."
+    },
+    {
+      "id": "AR086",
+      "category": "game",
+      "name_ko": "네 색 픽셀",
+      "name_en": "Four-color pixels",
+      "visual_ko": "네 가지 색만으로 밝기와 재료를 구분한다.",
+      "visual_en": "Separate values and materials using only four colors.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 1,
+        "row": 0,
+        "crop": {
+          "x": 364,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR086: Four-color pixels. Separate values and materials using only four colors."
+    },
+    {
+      "id": "AR087",
+      "category": "game",
+      "name_ko": "낮은 해상도 초상",
+      "name_en": "Low-resolution portraits",
+      "visual_ko": "눈과 머리 모양에 가장 많은 픽셀 정보를 배정한다.",
+      "visual_en": "Allocate most pixel detail to eyes and hair shape.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 2,
+        "row": 0,
+        "crop": {
+          "x": 726,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR087: Low-resolution portraits. Allocate most pixel detail to eyes and hair shape."
+    },
+    {
+      "id": "AR088",
+      "category": "game",
+      "name_ko": "플랫 캐릭터 시트",
+      "name_en": "Flat character sheets",
+      "visual_ko": "윤곽과 의상 구획을 명확한 색면으로 나눈다.",
+      "visual_en": "Separate contours and costume sections with clear flat colors.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 3,
+        "row": 0,
+        "crop": {
+          "x": 1088,
+          "y": 2,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 0.27472527472527475%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR088: Flat character sheets. Separate contours and costume sections with clear flat colors."
+    },
+    {
+      "id": "AR089",
+      "category": "game",
+      "name_ko": "등각 소품",
+      "name_en": "Isometric props",
+      "visual_ko": "같은 축 각도를 유지한 채 소품의 면을 나눈다.",
+      "visual_en": "Divide prop planes along consistent isometric axes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 0,
+        "row": 1,
+        "crop": {
+          "x": 2,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR089: Isometric props. Divide prop planes along consistent isometric axes."
+    },
+    {
+      "id": "AR090",
+      "category": "game",
+      "name_ko": "타일형 지형",
+      "name_en": "Tile terrain",
+      "visual_ko": "격자 경계에서 반복 가능한 형태를 설계한다.",
+      "visual_en": "Design shapes that can repeat at grid boundaries.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 1,
+        "row": 1,
+        "crop": {
+          "x": 364,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR090: Tile terrain. Design shapes that can repeat at grid boundaries."
+    },
+    {
+      "id": "AR091",
+      "category": "game",
+      "name_ko": "두 단계 셀 음영",
+      "name_en": "Two-step cel shading",
+      "visual_ko": "기본색과 그림자색 두 단계로 부피를 나타낸다.",
+      "visual_en": "Describe volume with a base tone and one shadow tone.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 2,
+        "row": 1,
+        "crop": {
+          "x": 726,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR091: Two-step cel shading. Describe volume with a base tone and one shadow tone."
+    },
+    {
+      "id": "AR092",
+      "category": "game",
+      "name_ko": "굵은 외곽 게임 소품",
+      "name_en": "Outlined game props",
+      "visual_ko": "작게 보아도 읽히는 두꺼운 실루엣을 쓴다.",
+      "visual_en": "Use a heavy silhouette that reads at small sizes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 3,
+        "row": 1,
+        "crop": {
+          "x": 1088,
+          "y": 364,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 50%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR092: Outlined game props. Use a heavy silhouette that reads at small sizes."
+    },
+    {
+      "id": "AR093",
+      "category": "game",
+      "name_ko": "손그림 지도",
+      "name_en": "Hand-drawn maps",
+      "visual_ko": "지형의 종류를 서로 다른 간단한 기호로 나타낸다.",
+      "visual_en": "Represent terrain types with distinct simple symbols.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 0,
+        "row": 2,
+        "crop": {
+          "x": 2,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "0.1834862385321101% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR093: Hand-drawn maps. Represent terrain types with distinct simple symbols."
+    },
+    {
+      "id": "AR094",
+      "category": "game",
+      "name_ko": "카드용 평면 캐릭터",
+      "name_en": "Flat card characters",
+      "visual_ko": "큰 의상 구획과 분명한 장비 모양을 쓴다.",
+      "visual_en": "Use broad costume sections and distinct equipment shapes.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 1,
+        "row": 2,
+        "crop": {
+          "x": 364,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "33.39449541284404% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR094: Flat card characters. Use broad costume sections and distinct equipment shapes."
+    },
+    {
+      "id": "AR095",
+      "category": "game",
+      "name_ko": "복고 셀 캐릭터",
+      "name_en": "Retro cel characters",
+      "visual_ko": "정돈된 선과 제한된 음영으로 캐릭터를 표현한다.",
+      "visual_en": "Describe characters with tidy lines and limited shading.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 2,
+        "row": 2,
+        "crop": {
+          "x": 726,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "66.60550458715596% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR095: Retro cel characters. Describe characters with tidy lines and limited shading."
+    },
+    {
+      "id": "AR096",
+      "category": "game",
+      "name_ko": "저해상도 몬스터",
+      "name_en": "Low-resolution monsters",
+      "visual_ko": "적은 픽셀로 눈과 몸의 방향을 구분한다.",
+      "visual_en": "Distinguish eyes and body direction with few pixels.",
+      "preview": {
+        "sheet_url": "https://arcrouter.dev/skills/style-kit/previews/game-v1.png",
+        "column": 3,
+        "row": 2,
+        "crop": {
+          "x": 1088,
+          "y": 726,
+          "width": 358,
+          "height": 358,
+          "sheet_width": 1448,
+          "sheet_height": 1086,
+          "backgroundSize": "404.4692737430168% 303.35195530726253%",
+          "backgroundPosition": "99.81651376146789% 99.72527472527473%"
+        },
+        "columns": 4,
+        "rows": 3,
+        "local_path": "assets/previews/game-v1.png"
+      },
+      "selection_text": "ArcRouter Style Collection v2.2.0 AR096: Low-resolution monsters. Distinguish eyes and body direction with few pixels."
+    }
+  ],
+  "display_name": "ArcRouter Style Collection · 스타일 컬렉션",
+  "selection_order": [
+    "MAPLE01",
+    "AR094",
+    "AR087",
+    "AR069",
+    "AR041",
+    "AR033",
+    "AR059",
+    "AR049",
+    "AR088",
+    "AR083",
+    "AR075",
+    "AR031",
+    "AR001",
+    "AR002",
+    "AR003",
+    "AR004",
+    "AR005",
+    "AR006",
+    "AR007",
+    "AR008",
+    "AR009",
+    "AR010",
+    "AR011",
+    "AR012",
+    "AR013",
+    "AR014",
+    "AR015",
+    "AR016",
+    "AR017",
+    "AR018",
+    "AR019",
+    "AR020",
+    "AR021",
+    "AR022",
+    "AR023",
+    "AR024",
+    "AR025",
+    "AR026",
+    "AR027",
+    "AR028",
+    "AR029",
+    "AR030",
+    "AR032",
+    "AR034",
+    "AR035",
+    "AR036",
+    "AR037",
+    "AR038",
+    "AR039",
+    "AR040",
+    "AR042",
+    "AR043",
+    "AR044",
+    "AR045",
+    "AR046",
+    "AR047",
+    "AR048",
+    "AR050",
+    "AR051",
+    "AR052",
+    "AR053",
+    "AR054",
+    "AR055",
+    "AR056",
+    "AR057",
+    "AR058",
+    "AR060",
+    "AR061",
+    "AR062",
+    "AR063",
+    "AR064",
+    "AR065",
+    "AR066",
+    "AR067",
+    "AR068",
+    "AR070",
+    "AR071",
+    "AR072",
+    "AR073",
+    "AR074",
+    "AR076",
+    "AR077",
+    "AR078",
+    "AR079",
+    "AR080",
+    "AR081",
+    "AR082",
+    "AR084",
+    "AR085",
+    "AR086",
+    "AR089",
+    "AR090",
+    "AR091",
+    "AR092",
+    "AR093",
+    "AR095",
+    "AR096"
+  ],
+  "featured": [
+    {
+      "id": "MAPLE01",
+      "category": "game",
+      "name_ko": "메이플스토리풍 아바타",
+      "name_en": "MapleStory-like avatar",
+      "visual_ko": "머리와 풍성한 머리카락이 전체 높이의 약 60%인 2등신 아바타. 양쪽 눈이 보이는 살짝 틀어진 정면, 짧은 팔다리, 흰 배경의 전신 대기 자세와 굵고 선명한 픽셀.",
+      "visual_en": "A two-head-tall avatar with voluminous hair occupying about 60% of its height. Both eyes visible in a slight quarter view, short limbs, full-body idle pose on white, crisp chunky pixels.",
+      "preview_url": "https://arcrouter.dev/skills/style-kit/previews/maple-v1.png",
+      "skill_url": "https://arcrouter.dev/skills/pixel-avatar",
+      "selection_text": "ArcRouter Style Collection featured MAPLE01: MapleStory-like avatar.\nSubject: [Character name and reference image]\nA two-head-tall avatar with voluminous hair occupying about 60% of its height. Both eyes visible in a slight quarter view, short limbs, full-body idle pose on white, crisp chunky pixels.\nPreview: https://arcrouter.dev/skills/style-kit/previews/maple-v1.png\nPreserve the subject identity; do not copy the sample outfit or hair color. Write Korean and English prompts. Do not generate an image yet.\nDedicated skill: https://arcrouter.dev/skills/pixel-avatar",
+      "preview_local_path": "assets/previews/maple-v1.png"
+    }
+  ],
+  "ordering_basis": "Editorial recommendation by use case, not measured sales. Existing AR IDs are unchanged.",
+  "previews": {
+    "provenance": "AI-generated ArcRouter demonstration sheets",
+    "subject": "Original fox courier with a satchel and flower",
+    "layout": "4 columns by 3 rows, left-to-right then top-to-bottom",
+    "notice": "Illustrative samples, not guaranteed outputs. Preview subjects are not instructions for the user task."
+  }
+}

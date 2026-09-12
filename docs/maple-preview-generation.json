@@ -1,0 +1,6 @@
+{
+  "method": "built-in image_gen",
+  "prompt": "Create a single original character sprite as a MapleStory-like player avatar sample for a style gallery. Original young adult female adventurer, huge fluffy chestnut hair with a teal ribbon, warm brown wide eyes, cream tunic with teal cape, tiny brown boots and small wooden staff. True Korean MMORPG avatar proportions: head plus voluminous hair about 62% total height, tiny torso, very short arms and legs, about 2 heads tall. Idle standing quarter view with both eyes visible, no visible neck. Low resolution chunky pixel art enlarged with crisp square grid-aligned blocks, like a 64px sprite, limited palette, clean dark 1px outline at working resolution, simple flat two-tone shading. Full body centered occupying 75% square canvas height. Pure white background. No text, no logos, no UI, no pets, no scenery, no ground, no smooth gradients, no realistic lighting. Must strongly read as MapleStory-style player avatar rather than generic chibi illustration. Single square image.",
+  "asset": "apps/console/public/skills/style-kit/previews/maple-v1.png",
+  "notice": "AI-generated illustrative sample, not an official game asset."
+}
