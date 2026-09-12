@@ -2,7 +2,7 @@
 
 메이플풍 아바타부터 픽셀, 캐릭터 카드, 수채, 콜라주, 포스터까지 확장하는 **이미지 스타일 컬렉션 + 에이전트 스킬**입니다. 손그림에 한정하지 않습니다.
 
-[웹 갤러리](https://arcrouter.dev/skills/handraw-style#visual-gallery) · [스타일 목록](references/styles.json) · [에이전트 스킬](SKILL.md)
+[ArcRouter 홈페이지](https://arcrouter.dev) · [ArcRouter 스타일 갤러리](https://arcrouter.dev/skills/handraw-style#visual-gallery) · [스타일 목록](references/styles.json) · [에이전트 스킬](SKILL.md)
 
 ![메이플풍 아바타 AI 생성 예시](assets/previews/maple-v1.png)
 
