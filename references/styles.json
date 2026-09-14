@@ -8,14 +8,7 @@
     "ko",
     "en"
   ],
-  "selection_note": "96 independently organized medium and rendering presets. No upstream numbered mapping, artist index, instructions, images or scripts are bundled.",
-  "inspiration": [
-    {
-      "name": "yang0/handraw-style",
-      "url": "https://github.com/yang0/handraw-style",
-      "role": "Reference for the idea of a browsable style collection; not redistributed or relicensed."
-    }
-  ],
+  "selection_note": "96 independently organized medium and rendering presets with ArcRouter IDs.",
   "styles": [
     {
       "id": "AR001",

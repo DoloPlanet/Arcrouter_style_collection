@@ -20,10 +20,10 @@ Draft prompts by default. Image generation is a separate user-requested action t
 
 ## 한국어
 
-메이플풍은 featured 배열의 MAPLE01에서 설명과 단독 미리보기를 읽습니다. 나머지는 gallery.html에서 그림을 보고 AR 번호를 고릅니다. selection_order는 활용도 기준 추천순이며 판매 순위가 아닙니다. 에이전트가 골라 달라는 요청을 받으면 번호가 붙은 미리보기를 보고 후보를 추천합니다. 이미 선택한 번호가 있으면 다시 선택을 요구하지 않습니다. references/styles.json에는 미리보기 시트 주소와 각 타일의 행·열이 들어 있습니다. 이전 원본 갤러리의 숫자 번호와 대응하지 않습니다. 모호한 번호를 받으면 스타일 이름을 확인합니다.
+메이플풍은 featured 배열의 MAPLE01에서 설명과 단독 미리보기를 읽습니다. 나머지는 gallery.html에서 그림을 보고 AR 번호를 고릅니다. selection_order는 활용도 기준 추천순이며 판매 순위가 아닙니다. 에이전트가 골라 달라는 요청을 받으면 번호가 붙은 미리보기를 보고 후보를 추천합니다. 이미 선택한 번호가 있으면 다시 선택을 요구하지 않습니다. references/styles.json에는 미리보기 시트 주소와 각 타일의 행·열이 들어 있습니다. 모호한 번호를 받으면 스타일 이름을 확인합니다.
 
 선택한 재료·표현 설명을 사용자의 주제와 결합해 한국어와 영어 프롬프트를 각각 작성합니다. 두 프롬프트의 내용은 같아야 하며, 간판 등 이미지 안에 넣을 문구는 지정된 언어를 유지합니다. 첨부 이미지를 볼 수 없다면 분석했다고 말하지 않습니다. 이미지는 사용자가 생성까지 요청했을 때만 만듭니다.
 
 Example: AR049로 비 오는 서점을 한국어와 영어 프롬프트로 작성해 줘. 간판은 '책방'으로 유지해 줘.
 
-See LICENSE for the MIT terms covering this package and NOTICE for external inspiration. External images, scripts and trademarks are not licensed by this package.
+See LICENSE for the MIT terms covering this package and NOTICE for scope of the license. External images, scripts and trademarks are not licensed by this package.

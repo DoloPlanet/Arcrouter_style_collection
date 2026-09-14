@@ -3,13 +3,8 @@ ArcRouter Style Collection 2.2
 The MIT license applies to the ArcRouter-authored SKILL.md, preset labels and
 visual descriptions, gallery code and ArcRouter-generated demonstration sheets. It does not relicense external work.
 
-Collection idea reference: yang0/handraw-style
-https://github.com/yang0/handraw-style
-The reviewed upstream repository did not declare a license. Its original
-instructions, artist index, numbered mapping, scripts and images are not included.
 Demonstration sheets were generated with the built-in image-generation tool.
 They are illustrative samples, not guaranteed results. This repository includes the generated preview assets for local gallery viewing.
-The 96 presets use ArcRouter IDs and medium-based descriptions. They do not
-promise an exact match to any upstream reference image. MAPLE01 is a separate
+The 96 presets use ArcRouter IDs and medium-based descriptions. MAPLE01 is a separate
 featured avatar preset. MapleStory is referenced only as a style description;
 this package is not affiliated with its publisher and includes no official game assets.

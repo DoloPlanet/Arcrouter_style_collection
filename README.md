@@ -42,6 +42,6 @@ An expanding style collection for MapleStory-like avatars, pixel art, character 
 
 The gallery includes its preview assets. The manifest provides local paths relative to the repository root alongside hosted URLs. MAPLE01 is the featured avatar; AR001–AR096 retain stable identities. Recommendations are editorial, not measured sales rankings.
 
-## License and inspiration
+## License
 
-MIT applies to our authored files and generated examples; see [LICENSE](LICENSE) and [NOTICE](NOTICE). The numbered-gallery idea references [yang0/handraw-style](https://github.com/yang0/handraw-style). This is an independent reconstruction, not its translated distribution. Upstream scripts, artist index and images are not bundled. MapleStory is a descriptive style reference; this collection is not affiliated with its publisher and includes no official game assets.
+MIT applies to our authored files and generated examples; see [LICENSE](LICENSE) and [NOTICE](NOTICE). MapleStory is a descriptive style reference; this collection is not affiliated with its publisher and includes no official game assets.
