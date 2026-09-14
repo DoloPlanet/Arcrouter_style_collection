@@ -33,7 +33,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR001.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR001: Single-line figure. Describe the figure with a continuous directional contour."
     },
@@ -60,7 +61,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR002.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR002: Fine city lines. Use fine building contours and small human marks."
     },
@@ -87,7 +89,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR003.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR003: Brush-pen gestures. Use pressure changes to convey the weight of a gesture."
     },
@@ -114,7 +117,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR004.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR004: Dry-ink landscape. Let paper gaps interrupt dry strokes."
     },
@@ -141,7 +145,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR005.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR005: Stippled ink. Separate values through dot density."
     },
@@ -168,7 +173,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR006.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR006: Parallel hatching. Build shade with spacing between parallel strokes."
     },
@@ -195,7 +201,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR007.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR007: Crosshatched pen. Cross two stroke directions only in shadow areas."
     },
@@ -222,7 +229,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR008.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR008: Black silhouettes. Contrast large black masses with interior gaps."
     },
@@ -249,7 +257,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR009.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR009: Observation notebook. Explain form with contours and a few structural lines."
     },
@@ -276,7 +285,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR010.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR010: Bold contour. Separate heavy outlines from lighter interior detail."
     },
@@ -303,7 +313,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR011.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR011: Ink plus one color. Add one accent hue to black linework."
     },
@@ -330,7 +341,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/ink-v1.png"
+        "local_path": "assets/previews/ink-v1.png",
+        "tile_path": "assets/styles/AR012.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR012: Open-space drawing. Connect parts of the subject through unmarked paper."
     },
@@ -357,7 +369,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR013.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR013: Graphite form study. Use broad graphite planes to separate light and dark masses."
     },
@@ -384,7 +397,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR014.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR014: Fine pencil figures. Keep expressions in light lines with restrained shading."
     },
@@ -411,7 +425,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR015.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR015: Rough charcoal. Contrast soft dark masses with erased highlights."
     },
@@ -438,7 +453,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR016.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR016: Two-pencil palette. Separate the subject and supporting forms with two colors."
     },
@@ -465,7 +481,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR017.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR017: Layered colored pencil. Build color depth from layers of thin strokes."
     },
@@ -492,7 +509,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR018.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR018: Travel pencil notes. Keep essential shapes with uneven location-sketch lines."
     },
@@ -519,7 +537,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR019.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR019: Soft pastel blocks. Soften the edges of rounded color masses."
     },
@@ -546,7 +565,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR020.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR020: Thick crayon marks. Leave small paper gaps within broad waxy marks."
     },
@@ -573,7 +593,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR021.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR021: Scratched crayon. Reveal bright lines as if scratched through a dark wax layer."
     },
@@ -600,7 +621,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR022.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR022: Margin doodles. Use compact simple forms and relaxed linework."
     },
@@ -627,7 +649,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR023.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR023: Pale pencil nature. Describe leaf and stem directions with muted pencil marks."
     },
@@ -654,7 +677,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/pencil-v1.png"
+        "local_path": "assets/previews/pencil-v1.png",
+        "tile_path": "assets/styles/AR024.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR024: High-contrast charcoal portrait. Preserve light facial planes against clustered shadows."
     },
@@ -681,7 +705,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR025.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR025: Light watercolor wash. Use thin color layers that reveal generous white paper."
     },
@@ -708,7 +733,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR026.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR026: Wet color blooms. Let neighboring color boundaries bleed into each other."
     },
@@ -735,7 +761,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR027.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR027: Dry watercolor edges. Keep distinct color boundaries on dry paper."
     },
@@ -762,7 +789,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR028.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR028: Watercolor with ink. Lay transparent color over light ink contours."
     },
@@ -789,7 +817,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR029.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR029: Seasonal watercolor. Unify the scene with a limited seasonal color family."
     },
@@ -816,7 +845,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR030.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR030: Botanical watercolor. Distinguish leaf flow and stem structure with directed strokes."
     },
@@ -843,7 +873,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR031.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR031: Travel watercolor journal. Keep key contours and relax other areas into loose washes."
     },
@@ -870,7 +901,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR032.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR032: Misty washes. Reduce saturation and edge strength with distance."
     },
@@ -897,7 +929,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR033.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR033: Clear figure washes. Separate broad face and clothing planes with transparent hues."
     },
@@ -924,7 +957,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR034.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR034: Watercolor animal shapes. Establish animal silhouettes through rounded color patches."
     },
@@ -951,7 +985,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR035.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR035: Rose-tinted washes. Pair pale rose washes with open paper."
     },
@@ -978,7 +1013,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/watercolor-v1.png"
+        "local_path": "assets/previews/watercolor-v1.png",
+        "tile_path": "assets/styles/AR036.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR036: Blue monochrome wash. Express depth through the values of one blue hue."
     },
@@ -1005,7 +1041,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR037.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR037: Opaque gouache. Stack flat opaque color planes with visible brush marks."
     },
@@ -1032,7 +1069,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR038.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR038: Oil-pastel masses. Keep rough edges around thick color masses."
     },
@@ -1059,7 +1097,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR039.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR039: Poster-paint shapes. Divide forms into three clear color masses."
     },
@@ -1086,7 +1125,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR040.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR040: Dry-brush color. Leave broken brush texture inside broad color planes."
     },
@@ -1113,7 +1153,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR041.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR041: Warm gouache tales. Pair warm dominant colors with quiet shadow hues."
     },
@@ -1140,7 +1181,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR042.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR042: Cool gouache night. Leave small light areas among deep blue planes."
     },
@@ -1167,7 +1209,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR043.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR043: Flat acrylic drawing. Use firm color boundaries and simplified forms."
     },
@@ -1194,7 +1237,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR044.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR044: Brushstroke florals. Create petal rhythms with repeated brush impressions."
     },
@@ -1221,7 +1265,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR045.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR045: Thick paint texture. Emphasize paint thickness only in lit areas."
     },
@@ -1248,7 +1293,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR046.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR046: Gouache with pencil. Add fine pencil structure over opaque painted planes."
     },
@@ -1275,7 +1321,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR047.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR047: Painted wooden figures. Use angular flat forms with hand-painted color edges."
     },
@@ -1302,7 +1349,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paint-v1.png"
+        "local_path": "assets/previews/paint-v1.png",
+        "tile_path": "assets/styles/AR048.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR048: Overlapping marker color. Darken areas where translucent marker strokes overlap."
     },
@@ -1329,7 +1377,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR049.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR049: Two-ink riso. Use ink overlaps and slight registration shifts as texture."
     },
@@ -1356,7 +1405,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR050.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR050: Three-color screenprint. Organize large forms into three separated ink layers."
     },
@@ -1383,7 +1433,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR051.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR051: Linocut marks. Contrast carved-looking light strokes with dark areas."
     },
@@ -1410,7 +1461,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR052.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR052: Woodgrain print. Run elongated grain marks along the form."
     },
@@ -1437,7 +1489,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR053.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR053: Rubber-stamp drawing. Leave small ink gaps within stamped color shapes."
     },
@@ -1464,7 +1517,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR054.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR054: Newsprint halftone. Build midtones with a few halftone levels."
     },
@@ -1491,7 +1545,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR055.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR055: Photocopied zine. Use crushed monochrome contrast and copy grain."
     },
@@ -1518,7 +1573,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR056.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR056: Blueprint silhouettes. Keep pale lines and shapes on a deep blue field."
     },
@@ -1545,7 +1601,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR057.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR057: Lithographic lines. Add even print grain to soft pencil-like lines."
     },
@@ -1572,7 +1629,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR058.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR058: Monochrome woodcut tales. Build narrative contrast through broad black-white masses."
     },
@@ -1599,7 +1657,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR059.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR059: Vintage spot-color poster. Contrast aged paper tones with clear spot colors."
     },
@@ -1626,7 +1685,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/print-v1.png"
+        "local_path": "assets/previews/print-v1.png",
+        "tile_path": "assets/styles/AR060.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR060: Monoprint textures. Keep irregular color edges that suggest a pressed print."
     },
@@ -1653,7 +1713,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR061.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR061: Torn-paper landscape. Separate depth with differently torn layer edges."
     },
@@ -1680,7 +1741,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR062.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR062: Precise paper cutouts. Overlap smooth blade-cut silhouettes."
     },
@@ -1707,7 +1769,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR063.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR063: Colored-paper figures. Overlap simple pieces to suggest limb directions."
     },
@@ -1734,7 +1797,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR064.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR064: Magazine-fragment collage. Unify fragments of different print textures into larger forms."
     },
@@ -1761,7 +1825,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR065.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR065: Watercolor-paper collage. Cut washed paper into clear contours."
     },
@@ -1788,7 +1853,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR066.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR066: Fabric-patch drawing. Suggest fabric through flat weave marks rather than 3D rendering."
     },
@@ -1815,7 +1881,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR067.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR067: Translucent paper layers. Let colors mingle where translucent layers overlap."
     },
@@ -1842,7 +1909,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR068.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR068: Folded-paper lines. Indicate folds with thin lines and restrained shading."
     },
@@ -1869,7 +1937,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR069.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR069: Shape stickers. Keep detail inside separate simple silhouettes."
     },
@@ -1896,7 +1965,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR070.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR070: Paper-doll outfits. Arrange clothing and body as separate flat pieces."
     },
@@ -1923,7 +1993,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR071.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR071: Pressed-botanical collage. Arrange flattened botanical shapes in orderly overlaps."
     },
@@ -1950,7 +2021,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/paper-v1.png"
+        "local_path": "assets/previews/paper-v1.png",
+        "tile_path": "assets/styles/AR072.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR072: Rough notebook collage. Keep rough seams between paper pieces and drawn marks."
     },
@@ -1977,7 +2049,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR073.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR073: Object metaphors. Simplify familiar object silhouettes around the topic."
     },
@@ -2004,7 +2077,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR074.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR074: Negative-space humor. Let empty shapes suggest a second meaning."
     },
@@ -2031,7 +2105,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR075.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR075: Geometric people. Suggest personality through contrasts of circles and rectangles."
     },
@@ -2058,7 +2133,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR076.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR076: Bold pop figures. Combine thick outlines with vivid color planes."
     },
@@ -2085,7 +2161,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR077.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR077: Quiet everyday lines. Capture everyday expressions with sparse lines and muted hues."
     },
@@ -2112,7 +2189,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR078.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR078: Single-panel gestures. Emphasize differences in posture over facial detail."
     },
@@ -2139,7 +2217,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR079.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR079: Diagrammatic stories. Show relationships through repeated simple forms."
     },
@@ -2166,7 +2245,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR080.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR080: Fashion contours. Prioritize clothing contours and body tilt."
     },
@@ -2193,7 +2273,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR081.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR081: Urban crowd symbols. Give each small figure one distinguishing feature."
     },
@@ -2220,7 +2301,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR082.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR082: Folk decorative drawing. Place repeating ornaments inside flat forms."
     },
@@ -2247,7 +2329,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR083.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR083: Curved story figures. Connect poses through flexible curves."
     },
@@ -2274,7 +2357,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/editorial-v1.png"
+        "local_path": "assets/previews/editorial-v1.png",
+        "tile_path": "assets/styles/AR084.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR084: Mid-century color shapes. Pair asymmetric forms with a restrained retro palette."
     },
@@ -2301,7 +2385,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR085.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR085: Tiny pixel icons. Keep silhouettes immediately readable on a small grid."
     },
@@ -2328,7 +2413,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR086.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR086: Four-color pixels. Separate values and materials using only four colors."
     },
@@ -2355,7 +2441,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR087.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR087: Low-resolution portraits. Allocate most pixel detail to eyes and hair shape."
     },
@@ -2382,7 +2469,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR088.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR088: Flat character sheets. Separate contours and costume sections with clear flat colors."
     },
@@ -2409,7 +2497,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR089.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR089: Isometric props. Divide prop planes along consistent isometric axes."
     },
@@ -2436,7 +2525,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR090.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR090: Tile terrain. Design shapes that can repeat at grid boundaries."
     },
@@ -2463,7 +2553,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR091.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR091: Two-step cel shading. Describe volume with a base tone and one shadow tone."
     },
@@ -2490,7 +2581,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR092.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR092: Outlined game props. Use a heavy silhouette that reads at small sizes."
     },
@@ -2517,7 +2609,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR093.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR093: Hand-drawn maps. Represent terrain types with distinct simple symbols."
     },
@@ -2544,7 +2637,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR094.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR094: Flat card characters. Use broad costume sections and distinct equipment shapes."
     },
@@ -2571,7 +2665,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR095.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR095: Retro cel characters. Describe characters with tidy lines and limited shading."
     },
@@ -2598,7 +2693,8 @@
         },
         "columns": 4,
         "rows": 3,
-        "local_path": "assets/previews/game-v1.png"
+        "local_path": "assets/previews/game-v1.png",
+        "tile_path": "assets/styles/AR096.webp"
       },
       "selection_text": "ArcRouter Style Collection v2.2.0 AR096: Low-resolution monsters. Distinguish eyes and body direction with few pixels."
     }
@@ -2714,7 +2810,8 @@
       "preview_url": "https://arcrouter.dev/skills/style-kit/previews/maple-v1.png",
       "skill_url": "https://arcrouter.dev/skills/pixel-avatar",
       "selection_text": "ArcRouter Style Collection featured MAPLE01: MapleStory-like avatar.\nSubject: [Character name and reference image]\nA two-head-tall avatar with voluminous hair occupying about 60% of its height. Both eyes visible in a slight quarter view, short limbs, full-body idle pose on white, crisp chunky pixels.\nPreview: https://arcrouter.dev/skills/style-kit/previews/maple-v1.png\nPreserve the subject identity; do not copy the sample outfit or hair color. Write Korean and English prompts. Do not generate an image yet.\nDedicated skill: https://arcrouter.dev/skills/pixel-avatar",
-      "preview_local_path": "assets/previews/maple-v1.png"
+      "preview_local_path": "assets/previews/maple-v1.png",
+      "tile_path": "assets/styles/MAPLE01.webp"
     }
   ],
   "ordering_basis": "Editorial recommendation by use case, not measured sales. Existing AR IDs are unchanged.",

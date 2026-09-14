@@ -10,7 +10,7 @@ The featured entry MAPLE01 is the MapleStory-like avatar preset. Resolve it in t
 
 Start with gallery.html for visual selection. It shows numbered AI-generated sample tiles and loads the included preview assets locally. Ask the user to choose a picture, or inspect the numbered gallery and recommend a few IDs when the user asks you to choose. If an ID is already supplied, resolve it directly without asking the user to repeat their selection.
 
-Read references/styles.json and resolve a preset by its AR-prefixed ID or Korean/English name. These are ArcRouter IDs, not the numbers in an external gallery. If an old three-digit number is supplied, explain that the catalog has changed and ask for the intended style name instead of silently mapping it.
+Read references/styles.json and resolve a preset by its AR-prefixed ID or Korean/English name. Each entry carries preview.tile_path, a single image for that ID, and README.md shows the same ID-to-image index. If a number outside the catalog is supplied, ask for the intended style name instead of guessing.
 
 Take the user's subject, optional image, and constraints. If no style is selected, suggest up to three relevant presets and explain the visible differences. Use the selected visual_ko and visual_en as material/rendering guidance. Write two separately copyable prompts that depict the same subject: Korean and English. Preserve requested in-image text in its original language. Do not introduce an artist name or change the user's subject to fit a preset.
 
@@ -20,7 +20,7 @@ Draft prompts by default. Image generation is a separate user-requested action t
 
 ## 한국어
 
-메이플풍은 featured 배열의 MAPLE01에서 설명과 단독 미리보기를 읽습니다. 나머지는 gallery.html에서 그림을 보고 AR 번호를 고릅니다. selection_order는 활용도 기준 추천순이며 판매 순위가 아닙니다. 에이전트가 골라 달라는 요청을 받으면 번호가 붙은 미리보기를 보고 후보를 추천합니다. 이미 선택한 번호가 있으면 다시 선택을 요구하지 않습니다. references/styles.json에는 미리보기 시트 주소와 각 타일의 행·열이 들어 있습니다. 모호한 번호를 받으면 스타일 이름을 확인합니다.
+메이플풍은 featured 배열의 MAPLE01에서 설명과 단독 미리보기를 읽습니다. 나머지는 README.md의 번호 대응표나 gallery.html에서 그림을 보고 AR 번호를 고릅니다. 번호별 낱장은 각 항목의 preview.tile_path에 있습니다. selection_order는 활용도 기준 추천순이며 판매 순위가 아닙니다. 에이전트가 골라 달라는 요청을 받으면 번호가 붙은 미리보기를 보고 후보를 추천합니다. 이미 선택한 번호가 있으면 다시 선택을 요구하지 않습니다. references/styles.json에는 미리보기 시트 주소와 각 타일의 행·열이 들어 있습니다. 모호한 번호를 받으면 스타일 이름을 확인합니다.
 
 선택한 재료·표현 설명을 사용자의 주제와 결합해 한국어와 영어 프롬프트를 각각 작성합니다. 두 프롬프트의 내용은 같아야 하며, 간판 등 이미지 안에 넣을 문구는 지정된 언어를 유지합니다. 첨부 이미지를 볼 수 없다면 분석했다고 말하지 않습니다. 이미지는 사용자가 생성까지 요청했을 때만 만듭니다.
 
